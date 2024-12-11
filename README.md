@@ -8,6 +8,7 @@ I’m excited to present my Contact App, built with Kotlin and Jetpack Compose! 
 - Efficient Navigation: Implements Jetpack Navigation for smooth transitions between screens.
 - Dependency Injection: Integrated Hilt for easy dependency management.
 - State Management: Uses Jetpack Compose’s state management to ensure a smooth, reactive UI.
+- Dial Feature: Long-press on a contact to directly dial their phone number.
 
 ### Tech Stack 🛠️
 - Language: Kotlin
@@ -21,5 +22,6 @@ I’m excited to present my Contact App, built with Kotlin and Jetpack Compose! 
 <p align="center">
   <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953579_y.jpg?raw=true" alt="Image 1" width="300">
   <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953580_y.jpg?raw=true" alt="Image 2" width="300">
+  <img src="blob:https://web.telegram.org/9b60639a-b413-4725-9cf8-33ef991d5653" alt="Image 3" width="300">
 </p>
  

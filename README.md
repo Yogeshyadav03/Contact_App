@@ -20,8 +20,8 @@ I’m excited to present my Contact App, built with Kotlin and Jetpack Compose! 
 
 ### Screenshots 📸
 <p align="center">
-  <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953579_y.jpg?raw=true" alt="Image 1" width="300">
-  <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953580_y.jpg?raw=true" alt="Image 2" width="300">
-  <img src="blob:https://web.telegram.org/9b60639a-b413-4725-9cf8-33ef991d5653" alt="Image 3" width="300">
+  <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953579_y.jpg?raw=true" alt="Image 1" width="200">
+  <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953580_y.jpg?raw=true" alt="Image 2" width="200">
+  <img src="https://github.com/Yogeshyadav03/Contact_App/blob/master/photo_6253390998096953584_y.jpg?raw=true" alt="Image 3" width="200">
 </p>
  
